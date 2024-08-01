@@ -19,6 +19,7 @@ A genetic algorithm is a type of optimization algorithm inspired by the process 
   - `numpy`
   - `matplotlib`
   - `pandas`
+  - `DEAP`
 
 
 You can install the required libraries using the following command:
